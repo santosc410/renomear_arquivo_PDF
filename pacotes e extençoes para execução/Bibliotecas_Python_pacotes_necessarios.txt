@@ -1,0 +1,12 @@
+Pacotes e bibliotecas necessários (linhas para instalar):
+
+pip install pytest
+pip install pytest-html
+pip install pytest-cov
+pip install requests
+pip install pandas
+pip install openpyxl
+pip install flask
+pip install mysql-connector-python
+pip install sqlalchemy
+pip install python-dotenv

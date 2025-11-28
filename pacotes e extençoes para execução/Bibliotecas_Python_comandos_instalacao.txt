@@ -1,0 +1,7 @@
+Linhas para instalar todos os pacotes necessários:
+
+pip install tkinter 
+pip install pandas 
+pip install openpyxl 
+pip install pdfplumber 
+pip install PyPDF2
